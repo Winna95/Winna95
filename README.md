@@ -1,15 +1,12 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2021/02/07/19/52/pikachu-5992504_1280.png">
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2021/02/07/19/52/pikachu-5992504_1280.png">
- <img alt="Img of pikachu" src="https://cdn.pixabay.com/photo/2021/02/07/19/52/pikachu-5992504_1280.png">
-</picture>
-
-## About me
+## Hello there 👋
 
 Hello, I'm Winnie. 
+- 🥶 I'm living in Norway
 - 🏫 I'm currently a Frontend developer Student at Noroff. 
 - 🏆 I’m currently learning JavaScript.
+- 🏅 The next language I want to learn is React.
 - 🤖 My dream is to work as a frontend developer / UX designer. 
+- 👩‍🦳 See my portofolio: 
 - 📫 How to reach me: Email: winniee@hotmail.no LinkedIn: https://www.linkedin.com/in/winnie-%C3%B8rbek-4382ba183/?originalSubdomain=no
 - ✉ Feel free to contact me if you have any questions. 
 
