@@ -6,7 +6,7 @@ Hello, I'm Winnie.
 - 🏆 I’m currently learning JavaScript.
 - 🏅 The next language I want to learn is React.
 - 🤖 My dream is to work as a frontend developer / UX designer. 
-- 👩‍🦳 See my portofolio: 
+- 👩‍🦳 See my portofolio: https://prismatic-treacle-ed7e92.netlify.app
 - 📫 How to reach me: Email: winniee@hotmail.no LinkedIn: https://www.linkedin.com/in/winnie-%C3%B8rbek-4382ba183/?originalSubdomain=no
 - ✉ Feel free to contact me if you have any questions. 
 
