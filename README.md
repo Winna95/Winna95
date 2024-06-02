@@ -5,7 +5,7 @@ Hello, I'm Winnie.
 - 🏫 I'm currently a Frontend developer Student at Noroff. 
 - 🏆 I’m currently learning React.
 - 🤖 My dream is to work as a frontend developer / UX designer. 
-- 👩‍🦳 See my portofolio: https://prismatic-treacle-ed7e92.netlify.app
+- 👩‍🦳 See my portofolio: https://portofolio-winnie.netlify.app/
 - 📫 How to reach me: Email: winniee@hotmail.no LinkedIn: https://www.linkedin.com/in/winnie-%C3%B8rbek-4382ba183/?originalSubdomain=no
 - ✉ Feel free to contact me if you have any questions. 
 
